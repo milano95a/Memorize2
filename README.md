@@ -10,3 +10,5 @@
 ![Scalding Logo](https://github.com/milano95a/Memorize2/blob/master/Memorize2/4.png)
 
 ![Scalding Logo](https://github.com/milano95a/Memorize2/blob/master/Memorize2/5.png)
+
+Done as part of Stanford CS 193P
